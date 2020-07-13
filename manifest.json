@@ -1,0 +1,15 @@
+{
+  "manifest_version": 2,
+  "name": "Filter Challenges",
+  "version": "1.0.0",
+  "description": "Filters Completed Challenges and Projects on Microverse's Student Dashboard",
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": true
+  },
+  "permissions": [
+    "https://dashboard.microverse.org/",
+    "contextMenus",
+    "activeTab"
+  ]
+}
