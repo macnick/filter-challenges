@@ -55,7 +55,7 @@ Currently the extension in not on the Coogle Store. Follow the steps below to ad
 4. Click the Load Unpacked button.
 <img src="img/screen5.jpg">
 
-5. Navigate and select the filter-challenges folder.
+5. Navigate where you saved the project and select the filter-challenges folder.
 
 <img src="img/screen6.jpg">
 
@@ -67,7 +67,15 @@ Currently the extension in not on the Coogle Store. Follow the steps below to ad
 
 ### Usage
 
+1. Navigate to your Microverse Dashboard. Click View Progress and then Coding Challenges. 
 
+<img src="img/screen8.jpg">
+
+2. Right-click anywhere on the list. (or two finger tap if you are on a Laptop). In the popup menu select Remove Completed
+
+<img src="img/screen9.jpg">
+
+3. Enjoy your new list with only pending items!
 
 [Up](#Table-of-Contents)
 
