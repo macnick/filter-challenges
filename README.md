@@ -44,7 +44,7 @@ Currently the extension in not on the Coogle Store. Follow the steps below to ad
 
 <img src="img/screen2.jpg">
 
-2. On you Chrome bar type ```chrome://extensions/``` and press enter.
+2. On your Chrome bar type ```chrome://extensions/``` and press enter.
 
 <img src="img/screen3.jpg">
 
