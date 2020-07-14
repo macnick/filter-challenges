@@ -90,6 +90,7 @@ Currently the extension in not on the Coogle Store. Follow the steps below to ad
 ## Acknowledgements
 
 - [Microverse](https://www.microverse.org) software development school
+- [Murilo Roque Paiva da Silva](https://github.com/MuriloRoque) for fixing the Projects list
 
 [Up](#Table-of-Contents)
 
