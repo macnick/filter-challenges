@@ -44,7 +44,7 @@ Currently the extension in not on the Coogle Store. Follow the steps below to ad
 
 <img src="img/screen2.jpg">
 
-2. On you Chrome bar type ```chrome://extensions/``` and press enter.
+2. On your Chrome bar type ```chrome://extensions/``` and press enter.
 
 <img src="img/screen3.jpg">
 
@@ -75,7 +75,7 @@ Currently the extension in not on the Coogle Store. Follow the steps below to ad
 
 <img src="img/screen9.jpg">
 
-3. Enjoy your new list with only pending items!
+3. Enjoy your new pending only items list!
 
 [Up](#Table-of-Contents)
 
