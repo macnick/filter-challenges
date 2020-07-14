@@ -2,10 +2,6 @@
 
 Chrome extension made for the Microverse online software school students.
 
-<p align="center">
-<img src="public/screenshot.png">
-</p>
-
 ## Table of Contents
 
 - [Objective](#Objective)
@@ -53,10 +49,18 @@ When students click on an option they see a list of their projects. The problem 
 Currently the extension in not on the Coogle Store. Follow the steps below to add it to your Chrome.
 
 1. Clone this repo to your computer.
+<img src="img/screen2.jpg">
 2. On you Chrome bar type ```chrome://extensions/``` and press enter.
+<img src="img/screen3.jpg">
 3. Turn on the Developer mode toggle button on the top right of the bar.
+<img src="img/screen4.jpg">
 4. Click the Load Unpacked button.
-5. Navigate and select the filter-challenges folder. 
+<img src="img/screen5.jpg">
+5. Navigate and select the filter-challenges folder.
+<img src="img/screen6.jpg">
+6. If you did everything right the extension is installed and ready to use.
+<img src="img/screen7.jpg">
+
 
 [Up](#Table-of-Contents)
 
