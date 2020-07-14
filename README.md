@@ -1,6 +1,6 @@
 # Filter Challenges
 
-Chrome extension made for the Microverse onsline software school students.
+Chrome extension made for the Microverse online software school students.
 
 <p align="center">
 <img src="public/screenshot.png">
@@ -12,7 +12,7 @@ Chrome extension made for the Microverse onsline software school students.
 - [Features](#Features)
 - [Future Features](#Future-Features)
 - [Installation](#Installation)
-- [Usage](#Usage))
+- [Usage](#Usage)
 - [Technologies Used](#Technologies-Used)
 - [Acknowledgments](#Acknowledgments)
 - [Author](#Author)
@@ -22,9 +22,10 @@ Chrome extension made for the Microverse onsline software school students.
 ### Objective
 
 [Microverse](https://www.microverse.org) is an online software development school. Students learn multiple programming languages and Computer Science fundamentals, through working on real projects with other students to reach mastery. Every day, each student, her/his coding partner, and the stand-up team will support and hold each other accountable to produce great work while remote pair programming.
-There is a dashboard where the students can connect and get info for their weekly progress and the daily program. On the dashboard, there is an option called 'View Progress' By clicking on it, the students see a page with options to choose between Projects, Coding Challenges, and Professional skills.
 
-<img src="img/screen1.img">
+There is a dashboard where the students can connect and get info for their weekly progress and the daily program. On the dashboard, there is an option called 'View Progress'. By clicking on it, the students see a page with options to choose between Projects, Coding Challenges, and Professional skills.
+
+<img src="img/screen1.jpg">
 
 When students click on an option they see a list of their projects. The problem is that after a couple of months the list has many completed projects and they have to scroll a lot. This is especially true in the case of Coding Challenges. This extension solves this problem by removing temporarily the completed projects.
 
@@ -47,35 +48,21 @@ When students click on an option they see a list of their projects. The problem 
 
 [Up](#Table-of-Contents)
 
-### Live version
+### Installation
 
-A live version is hosted on Heroku.
+Currently the extension in not on the Coogle Store. Follow the steps below to add it to your Chrome.
 
-- [**Calulator**](https://react-calculator-88569.herokuapp.com) @ heroku
-
-### How to Install and Run in Your Computer
-
-To run the scripts **npm** is required. To get npm you have to install [Node.js](https://nodejs.org). Follow the installation instructions for your system Mac, Linux or Windows.
-
-Use your terminal and run the commands after each instruction.
-
-| Command                                             | Description                                           |
-| --------------------------------------------------- | ----------------------------------------------------- |
-| `git clone https://github.com/macnick/RPG-game.git` | Clone the repository to you computer                  |
-| `cd react-calculator`                               | Navigate to the newly created folder                  |
-| `npm install`                                       | Install dependencies and launch browser with examples |
-| `npm start`                                         | Makes the build and starts the development server     |
-|                                                     | Press `Ctrl + c` to kill **http-server** process      |
-| `http://localhost:3000`                             | Visit this link to use the calculator                 |
+1. Clone this repo to your computer.
+2. On you Chrome bar type ```chrome://extensions/``` and press enter.
+3. Turn on the Developer mode toggle button on the top right of the bar.
+4. Click the Load Unpacked button.
+5. Navigate and select the filter-challenges folder. 
 
 [Up](#Table-of-Contents)
 
 ## Acknowledgements
 
 - [Microverse](https://www.microverse.org) software development school
-- [SHEY Louis Chia](https://github.com/shloch) for reviewing Milestones 1, 2, and 3
-- [Addo Forison](https://github.com/Forison) for reviewing Milestone 4
-- [Sérgio Torres](https://github.com/Torres-ssf) for reviewing Milestone 5
 
 [Up](#Table-of-Contents)
 
