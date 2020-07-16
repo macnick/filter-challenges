@@ -28,8 +28,17 @@ const appendShowBtn = () => {
   tabsNav.appendChild(createShowBtn());
 };
 
+
+
 const filterChallenges = (todo = 'COMPLETED') => {
-  let elements = document.getElementsByTagName('tr');
+  let url = window.location.href;
+  let elements;
+  if (url.endsWith('progress')) {
+    elements = document.getElementsByTagName('tr');
+  } else {
+    elements = document.getElementsByClassName('project-progress-row');
+  }
+
   for (let i = 0; i < elements.length; i++) {
     if (elements[i].innerText.includes(`${todo}`)) {
       elements[i].style.display = "none";
@@ -38,15 +47,6 @@ const filterChallenges = (todo = 'COMPLETED') => {
   }
 };
 
-const filterProjects = (todo = 'ASSIGNMENT COMPLETED') => {
-  let elements = document.getElementsByClassName('project-progress-row');
-  for (let i = 0; i < elements.length; i++) {
-    if (elements[i].innerText.includes(`${todo}`)) {
-      elements[i].style.display = "none";
-      i--;
-    }
-  }
-};
 
 const injectScript = () => {
   var newScript = document.createElement("script");
@@ -96,6 +96,5 @@ const injectScript = () => {
 };
 
 filterChallenges();
-filterProjects();
 appendShowBtn();
 injectScript();
