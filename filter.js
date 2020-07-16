@@ -1,4 +1,4 @@
-const createTag = (element, classes='', text='') => {
+const createTag = (element, classes = '', text = '') => {
   const tag = document.createElement(element);
   tag.setAttribute('class', classes);
   tag.innerText = text;
@@ -14,10 +14,10 @@ const createShowBtn = () => {
   anchorTag.setAttribute('href', 'javascript: showCompleted()');
 
   anchorTag.appendChild(span);
-  
+
   const showBtn = createTag('li', 'nav-item ml-auto');
   showBtn.appendChild(anchorTag);
-  
+
 
   return showBtn;
 };
@@ -89,8 +89,8 @@ const injectScript = () => {
       }  
     };
   `);
-  
-  newScript.appendChild(inlineScript); 
+
+  newScript.appendChild(inlineScript);
   const head = document.getElementsByTagName('head')[0];
   head.appendChild(newScript);
 };

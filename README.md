@@ -29,12 +29,11 @@ When students click on an option they see a list of their projects. The problem 
 
 ### Features
 
-1. It temporarily removes all completed projects from the list. User can see the full list by reloading the page. Currently works on Coding Challenges, and Professional skills. 
+1. It temporarily removes all completed projects from the list. User can see the full list by clicking the `Show Completed` button. Currently works on Projects, Coding Challenges, and Professional skills. 
 
 ### Future Features
 
 1. Add an icon
-2. Make it work on the Projects list.
 
 ### Installation
 
@@ -71,11 +70,9 @@ Currently the extension in not on the Coogle Store. Follow the steps below to ad
 
 <img src="img/screen8.jpg">
 
-2. Right-click anywhere on the list. (or two finger tap if you are on a Laptop). In the popup menu select Remove Completed
+2. Your list now show only the pending items.
 
-<img src="img/screen9.jpg">
-
-3. Enjoy your new pending only items list!
+4. If you want to see the completed items just click on the button ```Show Completed```
 
 [Up](#Table-of-Contents)
 
@@ -91,6 +88,7 @@ Currently the extension in not on the Coogle Store. Follow the steps below to ad
 
 - [Microverse](https://www.microverse.org) software development school
 - [Murilo Roque Paiva da Silva](https://github.com/MuriloRoque) for fixing the Projects list
+- [Tirthajyoti Ghosh](https://github.com/tirthajyoti-ghosh) for the show/hide functionality and button design
 
 [Up](#Table-of-Contents)
 
