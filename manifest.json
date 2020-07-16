@@ -11,7 +11,9 @@
   "content_scripts": [
     {
       "matches": [
-        "*://dashboard.microverse.org/*"
+        "https://dashboard.microverse.org/projects", 
+        "https://dashboard.microverse.org/challenges_progress", 
+        "https://dashboard.microverse.org/professional_skills_progress"
       ],
       "js": [
         "filter.js"
