@@ -42,7 +42,6 @@ const filterChallenges = (todo = 'COMPLETED') => {
   for (let i = 0; i < elements.length; i++) {
     if (elements[i].innerText.includes(`${todo}`)) {
       elements[i].style.display = "none";
-      i--;
     }
   }
 };
