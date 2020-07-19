@@ -18,7 +18,6 @@ const createShowBtn = () => {
   const showBtn = createTag('li', 'nav-item ml-auto');
   showBtn.appendChild(anchorTag);
 
-
   return showBtn;
 };
 
@@ -27,7 +26,6 @@ const appendShowBtn = () => {
 
   tabsNav.appendChild(createShowBtn());
 };
-
 
 
 const filterChallenges = (todo = 'COMPLETED') => {
@@ -39,11 +37,11 @@ const filterChallenges = (todo = 'COMPLETED') => {
     elements = document.getElementsByClassName('project-progress-row');
   }
 
-  for (let i = 0; i < elements.length; i++) {
-    if (elements[i].innerText.includes(`${todo}`)) {
-      elements[i].style.display = "none";
+  [...elements].forEach(el => {
+    if (el.innerText.includes(`${todo}`)) {
+      el.style.display = "none";
     }
-  }
+  })
 };
 
 
@@ -63,7 +61,6 @@ const injectScript = () => {
         for (let i = 0; i < elements.length; i++) {
           if (elements[i].innerText.includes(text)) {
             actionDecider(status, elements[i]);
-            i--;
           }
         }  
       };
