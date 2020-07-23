@@ -99,6 +99,11 @@ Currently the extension in not on the Coogle Store. Follow the steps below to ad
 - Linkedin: [Nick Haralampopoulos](https://www.linkedin.com/in/nick-haralampopoulos/)
 - AngelList: [Nick Haralampopoulos](https://angel.co/u/nick-haralampopoulos)
 
+## 🤝 Contributors
+
+- [Tirthajyoti Ghosh](https://github.com/tirthajyoti-ghosh)
+- [Murilo Roque Paiva da Silva](https://github.com/MuriloRoque)
+
 ## 🤝 Contributing
 
 Contributions, issues and feature requests are welcome!
