@@ -6,14 +6,11 @@ const createTag = (element, classes = "", text = "") => {
   return tag;
 };
 
-const createShowBtn = (label) => {
-  // const span = createTag("span", "", "Show Completed");
-  const span = createTag("span", "", label);
+const createShowBtn = () => {
+  const span = createTag("span", "", "Show Completed");
   span.setAttribute("id", "showBtnText");
 
   const anchorTag = createTag("a", "nav-link show active");
-  let arg = label === "Show Completed" ? "SHOW" : "COMPLETED";
-  // anchorTag.setAttribute("href", `javascript: filterChallenges(${arg})`);
 
   anchorTag.appendChild(span);
 
@@ -23,12 +20,12 @@ const createShowBtn = (label) => {
   return showBtn;
 };
 
-const appendShowBtn = (label) => {
+const appendShowBtn = () => {
   let tabsNav = document.getElementsByClassName(
     "tabs-animated-shadow tabs-animated nav"
   )[0];
 
-  tabsNav.appendChild(createShowBtn(label));
+  tabsNav.appendChild(createShowBtn());
 };
 
 const filterChallenges = (todo = "COMPLETED") => {
@@ -50,17 +47,19 @@ const filterChallenges = (todo = "COMPLETED") => {
   }
 
   let label = todo === "COMPLETED" ? "Show Completed" : "Hide Completed";
-  appendShowBtn(label);
 };
 
 const toggleFilter = () => {
   const btn = document.getElementById("showBtnText");
   let text = btn.innerText;
-  alert(text);
+  let filter;
+  text.startsWith("Show") ? (filter = "") : (filter = "COMPLETED");
+  filterChallenges(filter);
+  btn.innerText = text.startsWith("Show") ? "Hide Completed" : "Show Completed";
 };
 
 filterChallenges();
-// appendShowBtn();
+appendShowBtn();
 
 showBtnText = document.getElementById("showBtnText");
 showBtnText.addEventListener("click", toggleFilter);
