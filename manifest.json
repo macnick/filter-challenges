@@ -1,23 +1,17 @@
 {
   "manifest_version": 2,
   "name": "Filter Challenges",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "description": "Filters Completed Challenges and Projects on Microverse's Student Dashboard",
-  "permissions": [
-    "tabs",
-    "*://dashboard.microverse.org/*",
-    "activeTab"
-  ],
+  "permissions": ["tabs", "*://dashboard.microverse.org/*", "activeTab"],
   "content_scripts": [
     {
       "matches": [
-        "https://dashboard.microverse.org/projects", 
-        "https://dashboard.microverse.org/challenges_progress", 
+        "https://dashboard.microverse.org/projects",
+        "https://dashboard.microverse.org/challenges_progress",
         "https://dashboard.microverse.org/professional_skills_progress"
       ],
-      "js": [
-        "filter.js"
-      ]
+      "js": ["filter.js"]
     }
   ]
 }

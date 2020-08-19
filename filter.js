@@ -45,8 +45,6 @@ const filterChallenges = (todo = "COMPLETED") => {
   } else {
     [...elements].forEach((el) => el.removeAttribute("style"));
   }
-
-  let label = todo === "COMPLETED" ? "Show Completed" : "Hide Completed";
 };
 
 const toggleFilter = () => {
