@@ -39,7 +39,7 @@ When students click on an option they see a list of their projects. The problem 
 
 ### Installation
 
-Currently the extension in not on the Google Store. Follow the steps below to add it to your Chrome.
+Currently the extension in not on the Chrome Web Store. Follow the steps below to add it to your Chrome Extensions.
 
 1. Clone this repo to your computer.
 
