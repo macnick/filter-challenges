@@ -89,6 +89,7 @@ Currently the extension in not on the Coogle Store. Follow the steps below to ad
 - [Microverse](https://www.microverse.org) software development school
 - [Murilo Roque Paiva da Silva](https://github.com/MuriloRoque) for fixing the Projects list
 - [Tirthajyoti Ghosh](https://github.com/tirthajyoti-ghosh) for the show/hide functionality and button design
+- [Emeka Ananti](https://github.com/eananti) for the improving the README
 
 [Up](#Table-of-Contents)
 
