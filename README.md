@@ -112,11 +112,12 @@ Contributions, issues and feature requests are welcome!
 
 Feel free to check the [issues page](https://github.com/macnick/filter-challenges/issues).
 
-1. Fork it (https://github.com/macnick/filter-challenges/fork)
-2. Create your feature branch (git checkout -b my-new-feature)
-3. Commit your changes (git commit -m 'Add some feature')
-4. Push to the branch (git push origin my-new-feature)
-5. Create a new Pull Request
+1. Fork the [project repo](https://github.com/macnick/filter-challenges/fork)
+2. Create your feature branch ```git checkout -b my-new-feature```
+3. Stage new changes for commit ```git add .```
+4. Commit your changes ```git commit -m 'Add some feature'```
+5. Push to the branch ```git push origin my-new-feature```
+6. Create a new Pull Request
 
 ## Show your support
 
