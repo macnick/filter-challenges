@@ -1,3 +1,5 @@
+![](https://img.shields.io/badge/Microverse-blueviolet)
+
 # Filter Challenges
 
 Chrome extension made for the Microverse online software school students.
@@ -29,7 +31,7 @@ When students click on an option they see a list of their projects. The problem 
 
 ### Features
 
-1. It temporarily removes all completed projects from the list. User can see the full list by clicking the `Show Completed` button. Currently works on Projects, Coding Challenges, and Professional skills. 
+1. It temporarily removes all completed projects from the list. User can see the full list by clicking the `Show Completed` button. Currently works on Projects, Coding Challenges, and Professional skills.
 
 ### Future Features
 
@@ -37,7 +39,7 @@ When students click on an option they see a list of their projects. The problem 
 
 ### Installation
 
-Currently the extension in not on the Coogle Store. Follow the steps below to add it to your Chrome.
+Currently the extension in not on the Google Store. Follow the steps below to add it to your Chrome.
 
 1. Clone this repo to your computer.
 
@@ -66,7 +68,7 @@ Currently the extension in not on the Coogle Store. Follow the steps below to ad
 
 ### Usage
 
-1. Navigate to your Microverse Dashboard. Click View Progress and then Coding Challenges. 
+1. Navigate to your Microverse Dashboard. Click View Progress and then Coding Challenges.
 
 <img src="img/screen8.jpg">
 
@@ -112,7 +114,7 @@ Feel free to check the [issues page](https://github.com/macnick/filter-challenge
 
 1. Fork it (https://github.com/macnick/filter-challenges/fork)
 2. Create your feature branch (git checkout -b my-new-feature)
-3. Commit your changes (git commit -am 'Add some feature')
+3. Commit your changes (git commit -m 'Add some feature')
 4. Push to the branch (git push origin my-new-feature)
 5. Create a new Pull Request
 
