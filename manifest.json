@@ -4,9 +4,9 @@
   "version": "1.3.1",
   "description": "Filters Completed Challenges and Projects on Microverse's Student Dashboard",
   "icons": {
-    "16": "filter16.png",
-    "48": "filter48.png",
-    "128": "filter128.png"
+    "16": "icons/filter16.png",
+    "48": "icons/filter48.png",
+    "128": "icons/filter128.png"
   },
   "permissions": ["tabs", "*://dashboard.microverse.org/*", "activeTab"],
   "content_scripts": [
