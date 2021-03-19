@@ -1,3 +1,5 @@
+![](https://img.shields.io/badge/Microverse-blueviolet)
+
 # Filter Challenges
 
 Chrome extension made for the Microverse online software school students.
@@ -37,7 +39,7 @@ When students click on an option they see a list of their projects. The problem 
 
 ### Installation
 
-Currently the extension in not on the Coogle Store. Follow the steps below to add it to your Chrome.
+Currently the extension in not on the Chrome Web Store. Follow the steps below to add it to your Chrome Extensions.
 
 1. Clone this repo to your computer.
 
@@ -92,6 +94,7 @@ Currently the extension in not on the Coogle Store. Follow the steps below to ad
 - [Emeka Ananti](https://github.com/eananti) for improving the README
 - [dDara](https://www.flaticon.com/authors/ddara) from [www.flaticon.com](https://www.flaticon.com/) for the icon design
 
+
 [Up](#Table-of-Contents)
 
 ## 👤 Author
@@ -105,18 +108,20 @@ Currently the extension in not on the Coogle Store. Follow the steps below to ad
 
 - [Tirthajyoti Ghosh](https://github.com/tirthajyoti-ghosh)
 - [Murilo Roque Paiva da Silva](https://github.com/MuriloRoque)
+- [Emeka Ananti](https://github.com/eananti)
 
 ## 🤝 Contributing
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/macnick/react-calculator/issues).
+Feel free to check the [issues page](https://github.com/macnick/filter-challenges/issues).
 
-1. Fork it (https://github.com/macnick/react-calculator/fork)
-2. Create your feature branch (git checkout -b my-new-feature)
-3. Commit your changes (git commit -am 'Add some feature')
-4. Push to the branch (git push origin my-new-feature)
-5. Create a new Pull Request
+1. Fork the [project repo](https://github.com/macnick/filter-challenges/fork)
+2. Create your feature branch ```git checkout -b my-new-feature```
+3. Stage new changes for commit ```git add .```
+4. Commit your changes ```git commit -m 'Add some feature'```
+5. Push to the branch ```git push origin my-new-feature```
+6. Create a new Pull Request
 
 ## Show your support
 
