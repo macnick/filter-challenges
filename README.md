@@ -45,7 +45,7 @@ Currently the extension in not on the Chrome Web Store. Follow the steps below t
 
 <img src="img/screen2.jpg">
 
-2. On your Chrome bar type ```chrome://extensions/``` and press enter.
+2. On your Chrome bar type `chrome://extensions/` and press enter.
 
 <img src="img/screen3.jpg">
 
@@ -54,7 +54,7 @@ Currently the extension in not on the Chrome Web Store. Follow the steps below t
 <img src="img/screen4.jpg">
 
 4. Click the Load Unpacked button.
-<img src="img/screen5.jpg">
+   <img src="img/screen5.jpg">
 
 5. Navigate where you saved the project and select the filter-challenges folder.
 
@@ -74,7 +74,7 @@ Currently the extension in not on the Chrome Web Store. Follow the steps below t
 
 2. Your list now show only the pending items.
 
-4. If you want to see the completed items just click on the button ```Show Completed```
+3. If you want to see the completed items just click on the button `Show Completed`
 
 [Up](#Table-of-Contents)
 
@@ -91,7 +91,9 @@ Currently the extension in not on the Chrome Web Store. Follow the steps below t
 - [Microverse](https://www.microverse.org) software development school
 - [Murilo Roque Paiva da Silva](https://github.com/MuriloRoque) for fixing the Projects list
 - [Tirthajyoti Ghosh](https://github.com/tirthajyoti-ghosh) for the show/hide functionality and button design
-- [Emeka Ananti](https://github.com/eananti) for the improving the README
+- [Emeka Ananti](https://github.com/eananti) for improving the README
+- [dDara](https://www.flaticon.com/authors/ddara) from [www.flaticon.com](https://www.flaticon.com/) for the icon design
+
 
 [Up](#Table-of-Contents)
 
