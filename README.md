@@ -29,7 +29,7 @@ When students click on an option they see a list of their projects. The problem 
 
 ### Features
 
-1. It temporarily removes all completed projects from the list. User can see the full list by clicking the `Show Completed` button. Currently works on Projects, Coding Challenges, and Professional skills. 
+1. It temporarily removes all completed projects from the list. User can see the full list by clicking the `Show Completed` button. Currently works on Projects, Coding Challenges, and Professional skills.
 
 ### Future Features
 
@@ -43,7 +43,7 @@ Currently the extension in not on the Coogle Store. Follow the steps below to ad
 
 <img src="img/screen2.jpg">
 
-2. On your Chrome bar type ```chrome://extensions/``` and press enter.
+2. On your Chrome bar type `chrome://extensions/` and press enter.
 
 <img src="img/screen3.jpg">
 
@@ -52,7 +52,7 @@ Currently the extension in not on the Coogle Store. Follow the steps below to ad
 <img src="img/screen4.jpg">
 
 4. Click the Load Unpacked button.
-<img src="img/screen5.jpg">
+   <img src="img/screen5.jpg">
 
 5. Navigate where you saved the project and select the filter-challenges folder.
 
@@ -66,13 +66,13 @@ Currently the extension in not on the Coogle Store. Follow the steps below to ad
 
 ### Usage
 
-1. Navigate to your Microverse Dashboard. Click View Progress and then Coding Challenges. 
+1. Navigate to your Microverse Dashboard. Click View Progress and then Coding Challenges.
 
 <img src="img/screen8.jpg">
 
 2. Your list now show only the pending items.
 
-4. If you want to see the completed items just click on the button ```Show Completed```
+3. If you want to see the completed items just click on the button `Show Completed`
 
 [Up](#Table-of-Contents)
 
@@ -104,6 +104,7 @@ Currently the extension in not on the Coogle Store. Follow the steps below to ad
 
 - [Tirthajyoti Ghosh](https://github.com/tirthajyoti-ghosh)
 - [Murilo Roque Paiva da Silva](https://github.com/MuriloRoque)
+- Icons made by [dDara](https://www.flaticon.com/authors/ddara) from [www.flaticon.com](https://www.flaticon.com/)
 
 ## 🤝 Contributing
 
