@@ -2,7 +2,7 @@
 
 # Filter Challenges
 
-Chrome extension made for the Microverse online software school students.
+Chrome extension made with ❤️ for the Microverse online software school students.
 
 ## Table of Contents
 
